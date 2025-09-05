@@ -1,0 +1,16 @@
+{
+  "fr-minister-barrot": {
+    "emails": [
+      "Jean-Noel.Barrot@assemblee-nationale.fr",
+      "jean-noel.barrot@iledefrance.fr"
+    ],
+    "subject": "ÉVACUER ET LES ÉTUDIANTS PALESTINIENS À NOUVEAU RÉFUGIÉS",
+    "body": "Monsieur le Ministre Jean-Noël Barrot,\n\nLa Cour nationale du droit d’asile a statué en juillet 2025 que 100 % des Palestiniens sont éligibles à l’asile en France. Pourtant, le 1er août 2025, vous avez suspendu toutes les évacuations...\n\n[reste du message]\n\nVeuillez rétablir immédiatement les évacuations."
+  },
+
+  "another-target-slug": {
+    "emails": ["someone@example.com"],
+    "subject": "Sujet pour autre cible",
+    "body": "Corps d’email pour l’autre cible."
+  }
+}
