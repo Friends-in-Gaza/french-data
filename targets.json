@@ -5,12 +5,14 @@
       "jean-noel.barrot@iledefrance.fr"
     ],
     "subject": "ÉVACUER ET LES ÉTUDIANTS PALESTINIENS À NOUVEAU RÉFUGIÉS",
-    "body": "Monsieur le Ministre Jean-Noël Barrot,\n\nLa Cour nationale du droit d’asile a statué en juillet 2025 que 100 % des Palestiniens sont éligibles à l’asile en France. Pourtant, le 1er août 2025, vous avez suspendu toutes les évacuations...\n\n[reste du message]\n\nVeuillez rétablir immédiatement les évacuations."
+    "body": "Monsieur le Ministre Jean-Noël Barrot,\n\nLa Cour nationale du droit d’asile a statué en juillet 2025 que 100 % des Palestiniens sont éligibles à l’asile en France. Pourtant, le 1er août 2025, vous avez suspendu toutes les évacuations de réfugiés de Gaza vers la France, en vous appuyant sur un seul cas d’étudiant accusé de contenus antisémites.\n\nCette décision revient à punir collectivement tout un peuple. De nombreux étudiants innocents restent coincés à Gaza, sous la menace constante d’un génocide, alors qu’Israël continue de bombarder maisons, écoles et hôpitaux.\n\nLe secrétaire général de l’ONU, António Guterres, s’est dit consterné par les Palestiniens tués en cherchant de l’aide alimentaire. Le Conseil des droits de l’homme de l’ONU et d’autres experts affirment qu’Israël utilise la nourriture comme arme, ce qui constitue un crime de guerre. Amnesty International, ainsi que B’Tselem et Physicians for Human Rights Israel, dénoncent un génocide en cours.\n\nNous vous demandons clairement : annulez cette suspension et laissez les évacuations reprendre immédiatement. Les étudiants de Gaza font partie de la majorité mondiale. Ils méritent sécurité, dignité et avenir."
   },
 
-  "another-target-slug": {
-    "emails": ["someone@example.com"],
-    "subject": "Sujet pour autre cible",
-    "body": "Corps d’email pour l’autre cible."
+  "fr-another-target": {
+    "emails": [
+      "example.person@gouv.fr"
+    ],
+    "subject": "Sujet pour autre destinataire",
+    "body": "Monsieur/Madame,\n\nVoici un exemple de texte que vous pouvez remplacer par le corps de votre email.\n\nCordialement."
   }
 }
